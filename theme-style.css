@@ -16,7 +16,7 @@ body a{
 	padding: 2em 0;
 }
 .bg{
-	background: url(../images/bg.jpg) no-repeat 0px 0px;
+	background: url(bg.jpg) no-repeat 0px 0px;
 	min-height: 809px;
 	background-size: 100% 100%;
 }
@@ -60,7 +60,7 @@ body a{
 	text-transform: uppercase;
 }
 .top-nav ul li.active a{
-	background: url(../images/active-ico.png) no-repeat 50% 100%;
+	background: url(active-ico.png) no-repeat 50% 100%;
 }
 .top-nav ul li a:hover{
 	color:#44C1F3;
@@ -225,7 +225,7 @@ nav a#pull {
 	width: 189px;
 	height: 13px;
 	display: block;
-	background: url(../images/head-border.png) no-repeat 0px 0px;
+	background: url(head-border.png) no-repeat 0px 0px;
 	margin-top: 0.15em;
 }
 /* Self Clearing Goodness */
@@ -670,7 +670,7 @@ span.default_line {
 }
 /*------start-contact----*/
 .footer{
-	background: url(../images/footer-bg.jpg) no-repeat 0px 0px;
+	background: url(footer-bg.jpg) no-repeat 0px 0px;
 	min-height: 500px;
 	background-size: cover;
 }
@@ -702,7 +702,7 @@ span.default_line {
 	height: 40px;
 	border: none;
 	text-indent: 100%;
-	background: url("../images/to-top1.png") no-repeat 0px 0px;
+	background: url("to-top1.png") no-repeat 0px 0px;
 	border-radius: 30em;
 }
 #toTopHover {
